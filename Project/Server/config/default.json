@@ -1,0 +1,9 @@
+{
+    "port":9999,
+    "host":"localhost",
+    "serverport":3306,
+    "database":"project_db",
+    "user":"root",
+    "password":"manager",
+    "baseurl":""
+}
